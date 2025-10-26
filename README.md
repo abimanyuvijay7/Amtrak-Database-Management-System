@@ -100,9 +100,8 @@ A **Tableau dashboard** was developed to visualize key insights derived from the
 | `DDL.sql` | Database schema (table creation, constraints) |
 | `DML.sql` | Queries and manipulation commands |
 | `INSERT_INTO_*.sql` | Data population scripts |
-| `Report.pdf` | Project report including data processing & insights |
-| `Slides.pdf` | Final presentation deck |
-| `Tableau.twb` | Visualization workbook |
+| `BUDT703_Project_0506_14_Report.docx` | Project report including data processing & insights |
+| `BUDT703_Project_0506_14_Tableau` | Visualization workbook |
 
 ---
 

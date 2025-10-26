@@ -1,4 +1,4 @@
-# Amtrak Database Management System – Train of Thought Inc.
+# Amtrak Database Management System
 
 **Objective:**  
 To design and implement a relational database for Amtrak’s operational and financial data, analyze patterns across ridership, rewards, employment, procurements, and budget allocations, and visualize key insights to support strategic decision-making.
@@ -67,7 +67,7 @@ A **Tableau dashboard** was developed to visualize key insights derived from the
 
 ---
 
-## 👥 Contributors
+## Contributors
 - **Abimanyu Vijay Krishnamoorthy**  
 - Rohan Vasudevan  
 - Ritesh Narendra Pamadi  
@@ -75,7 +75,7 @@ A **Tableau dashboard** was developed to visualize key insights derived from the
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 - SQL (DDL, DML, Joins, Window Functions, Subqueries)  
 - Database Normalization (1NF → 3NF)  
 - Referential Integrity and Foreign Key Design  
@@ -85,7 +85,7 @@ A **Tableau dashboard** was developed to visualize key insights derived from the
 
 ---
 
-## 📚 Data Sources
+## Data Sources
 - [Amtrak State Fact Sheets](https://www.amtrak.com/about-amtrak/amtrak-facts/state-fact-sheets.html)  
 - [Amtrak Reports & Documents](https://www.amtrak.com/about-amtrak/reports-documents.html)  
 - [Amtrak Train Routes](https://www.amtrak.com/train-routes)  
@@ -94,7 +94,7 @@ A **Tableau dashboard** was developed to visualize key insights derived from the
 
 ---
 
-## 🪄 Repository Contents
+## Repository Contents
 | File | Description |
 |------|--------------|
 | `DDL.sql` | Database schema (table creation, constraints) |
@@ -106,7 +106,7 @@ A **Tableau dashboard** was developed to visualize key insights derived from the
 
 ---
 
-## 🧾 License
+## License
 This project is open-sourced under the [MIT License](LICENSE).
 
 ---

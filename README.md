@@ -56,14 +56,14 @@ All **DDL** and **DML** scripts are included for table creation, population, and
 
 ---
 
-## 📊 Tableau Visualization
+## Tableau Visualization
 A **Tableau dashboard** was developed to visualize key insights derived from the database, including:
 - Route performance and efficiency metrics  
 - Ridership and guest rewards correlations  
 - Budget allocations by state and category  
 - Procurement and employment distribution  
 
-📈 **Workbook:** `BUDT703_Project_0506_14_Tableau.twb`
+**Workbook:** `BUDT703_Project_0506_14_Tableau.twb`
 
 ---
 

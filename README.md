@@ -49,3 +49,64 @@ Employment(employmentStateRecordId, employmentCount, employmentTotalSalary,
 Rewards(rewardsId, rewardsMemberCount, rewardsYear, stateCode)
 Ridership(ridershipRecordId, ridershipCity, ridershipCityCount, ridershipYear, stationCode)
 Pass(stateCode, routeId, stops)
+```
+### **Physical Design**
+Implemented in SQL Server with full referential integrity, cascading updates/deletes, and numeric-based keys.  
+All **DDL** and **DML** scripts are included for table creation, population, and analytical querying.
+
+---
+
+## 📊 Tableau Visualization
+A **Tableau dashboard** was developed to visualize key insights derived from the database, including:
+- Route performance and efficiency metrics  
+- Ridership and guest rewards correlations  
+- Budget allocations by state and category  
+- Procurement and employment distribution  
+
+📈 **Workbook:** `BUDT703_Project_0506_14_Tableau.twb`
+
+---
+
+## 👥 Contributors
+- **Abimanyu Vijay Krishnamoorthy**  
+- Rohan Vasudevan  
+- Ritesh Narendra Pamadi  
+- Pranav Bharatwaj Manikantan  
+
+---
+
+## 🧠 Skills Demonstrated
+- SQL (DDL, DML, Joins, Window Functions, Subqueries)  
+- Database Normalization (1NF → 3NF)  
+- Referential Integrity and Foreign Key Design  
+- ETL & Data Cleaning (Excel + SQL)  
+- Tableau Dashboard Development  
+- Business Intelligence & Data Storytelling  
+
+---
+
+## 📚 Data Sources
+- [Amtrak State Fact Sheets](https://www.amtrak.com/about-amtrak/amtrak-facts/state-fact-sheets.html)  
+- [Amtrak Reports & Documents](https://www.amtrak.com/about-amtrak/reports-documents.html)  
+- [Amtrak Train Routes](https://www.amtrak.com/train-routes)  
+- [Great American Stations](https://www.greatamericanstations.com/)  
+- [FAA State Codes Reference](https://www.faa.gov/air_traffic/publications/atpubs/cnt_html/appendix_a.html)
+
+---
+
+## 🪄 Repository Contents
+| File | Description |
+|------|--------------|
+| `DDL.sql` | Database schema (table creation, constraints) |
+| `DML.sql` | Queries and manipulation commands |
+| `INSERT_INTO_*.sql` | Data population scripts |
+| `Report.pdf` | Project report including data processing & insights |
+| `Slides.pdf` | Final presentation deck |
+| `Tableau.twb` | Visualization workbook |
+
+---
+
+## 🧾 License
+This project is open-sourced under the [MIT License](LICENSE).
+
+---

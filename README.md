@@ -97,11 +97,9 @@ A **Tableau dashboard** was developed to visualize key insights derived from the
 ## Repository Contents
 | File | Description |
 |------|--------------|
-| `DDL.sql` | Database schema (table creation, constraints) |
-| `DML.sql` | Queries and manipulation commands |
 | `BUDT703_Project_0506_14_SQL` | SQL Files |
-| `BUDT703_Project_0506_14_Report.docx` | Project report including data processing & insights |
-| `BUDT703_Project_0506_14_Tableau` | Visualization workbook |
+| `report` | Project report including data processing & insights |
+| `Tableau Workbook` | Visualization workbook |
 
 ---
 
